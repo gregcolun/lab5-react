@@ -1,0 +1,14 @@
+[
+  { "name": "Coral", "hex": "#ff6b6b" },
+  { "name": "Sunset Orange", "hex": "#ff8c42" },
+  { "name": "Amber", "hex": "#ffbe0b" },
+  { "name": "Mint", "hex": "#2ec4b6" },
+  { "name": "Sky", "hex": "#3a86ff" },
+  { "name": "Indigo", "hex": "#4361ee" },
+  { "name": "Violet", "hex": "#8338ec" },
+  { "name": "Rose", "hex": "#ff4d8d" },
+  { "name": "Slate", "hex": "#475569" },
+  { "name": "Charcoal", "hex": "#1f2937" },
+  { "name": "Snow", "hex": "#f8fafc" },
+  { "name": "Black", "hex": "#0f172a" }
+]
